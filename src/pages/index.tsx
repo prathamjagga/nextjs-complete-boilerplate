@@ -3,7 +3,9 @@ import { Container } from '@/styles/HomeStyle'
 
 const Home: NextPage = () => {
   return (
-    <Container />
+    <Container>
+      <h1>Hello, Techdome!</h1>
+    </Container>
   )
 }
 
