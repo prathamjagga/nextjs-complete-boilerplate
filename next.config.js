@@ -7,5 +7,6 @@ module.exports = {
       displayName: true,
       ssr: true
     }
-  }
+  },
+  distDir: './out'
 }
